@@ -1,4 +1,3 @@
-### Hi, I'm Rian 👋
 <img src="https://github.com/RianFerian/rianferian/blob/main/Blank%20Company%20Profile%20Business%20Presentation%20in%20Red%20Maroon%20White%20Geometric%20Style%20(2).jpg">
 
 
