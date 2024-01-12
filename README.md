@@ -2,9 +2,9 @@
 
 
 - 🚶 I'm data enthusiast with passion for Data Analyst and Machine Learning.
-- 🔭 I’m currently working on Pt. PP. London Sumatra as Reporting and Analyst Assistant Operation Administration
+- 🔭 I’m currently working on Pt. PP. London Sumatra as Reporting and Analyst Assistant Operation Administration.
+- 🌱 I’m currently learning about Django and PySpark for my next project.
 
-- 
 <!--
 **RianFerian/rianferian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
