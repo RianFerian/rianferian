@@ -10,7 +10,8 @@ I also join Baparekraf digital talent at 2021 for data analyst bootcamp.
 - 🔭 I’m currently working on Pt. PP. London Sumatra as Reporting and Analyst Assistant Operation Administration.
 - 🌱 I’m currently learning about Django and PySpark for my next project.
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,r,mysql,hrml,css&theme=dark)](https://skills.thijs.gg)
+Skills:
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,mysql,html,css&theme=dark)](https://skills.thijs.gg)
 
 <!--
 **RianFerian/rianferian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
