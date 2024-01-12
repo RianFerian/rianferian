@@ -7,9 +7,10 @@ As data enthusiast I start my journey learning statistics at Bogor Agricultural 
 At 2020 I join Bangkit Academy machine learning Boot Camp which led by Google, GoTo and Traveloka. 
 I also join Baparekraf digital talent at 2021 for data analyst bootcamp.
 
-- 🚶 I'm data enthusiast with passion for Data Analyst and Machine Learning.
 - 🔭 I’m currently working on Pt. PP. London Sumatra as Reporting and Analyst Assistant Operation Administration.
 - 🌱 I’m currently learning about Django and PySpark for my next project.
+
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,mysql,hrml,css&theme=dark)](https://skills.thijs.gg)
 
 <!--
 **RianFerian/rianferian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
