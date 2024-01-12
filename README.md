@@ -11,6 +11,7 @@ I also join Baparekraf digital talent at 2021 for data analyst bootcamp.
 - 🌱 I’m currently learning about Django and PySpark for my next project.
 
 Skills:
+
 [![My Skills](https://skills.thijs.gg/icons?i=py,r,mysql,html,css&theme=dark)](https://skills.thijs.gg)
 
 <!--
