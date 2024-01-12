@@ -1,7 +1,9 @@
 <img src="https://github.com/RianFerian/rianferian/blob/main/Rian%20Profile.jpg">
 
 Learning is a journey.
+
 As data enthusiast I start my journey learning statistics at Bogor Agricultural University. 
+
 At 2020 I join Bangkit Academy machine learning Boot Camp which led by Google, GoTo and Traveloka. 
 I also join Baparekraf digital talent at 2021 for data analyst bootcamp.
 
