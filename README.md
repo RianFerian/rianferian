@@ -12,7 +12,7 @@ I also join Baparekraf digital talent at 2021 for data analyst bootcamp.
 
 ## 🏆 Achievement
 
-<p><strong><a href="https://www.kaggle.com/competitions/playground-series-s3e6/leaderboard?tab=public"> - 🥈 2nd Kaggle Competition S3 E6</a></strong></p>
+<p>- 🥈 <strong><a href="https://www.kaggle.com/competitions/playground-series-s3e6/leaderboard?tab=public">2nd Kaggle Competition S3 E6</a></strong></p>
 <p><a href="https://www.linkedin.com/posts/rian-ferian_kaggle-s3e6-solution-activity-7034855270157598720-r5Xb?utm_source=share&utm_medium=member_desktop"> Documentation</a></p>
 
 ## 🚀 Self Project
