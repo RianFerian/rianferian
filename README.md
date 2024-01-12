@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Rian 👋
 
+
+- 🚶 I'm data enthusiast with passion for Data Analyst and Machine Learning.
+- 🔭 I’m currently working on Pt. PP. London Sumatra as Reporting and Analyst Assistant Operation Administration
+
+- 
 <!--
 **RianFerian/rianferian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
