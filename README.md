@@ -1,6 +1,8 @@
 <img src="https://github.com/RianFerian/rianferian/blob/main/Rian%20Profile.jpg">
 
-Learning is a journey.
+## Rian Ferian
+
+<b>Learning is a journey.<b>
 
 As data enthusiast I start my journey learning statistics at Bogor Agricultural University. 
 
