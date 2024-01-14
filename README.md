@@ -4,9 +4,7 @@
 
 <b>Learning is a journey.<b>
 
-As data enthusiast I start my journey learning statistics at Bogor Agricultural University. 
-
-At 2020 I join Bangkit Academy machine learning Boot Camp which led by Google, GoTo and Traveloka. 
+As data enthusiast I start my journey learning statistics at Bogor Agricultural University. At 2020 I join Bangkit Academy machine learning Boot Camp which led by Google, GoTo and Traveloka. 
 I also join Baparekraf digital talent at 2021 for data analyst bootcamp.
 
 - 🔭 I’m currently working on Pt. PP. London Sumatra as Reporting and Analyst Assistant Operation Administration.
