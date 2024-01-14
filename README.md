@@ -20,6 +20,7 @@ I also join Baparekraf digital talent at 2021 for data analyst bootcamp.
 <p>- 🖱️ <a href="https://www.linkedin.com/posts/rian-ferian_touchscreen-this-is-touchless-this-project-activity-7151168575196565504-aAFo?utm_source=share&utm_medium=member_desktop"> Virtual Mouse</a></p>
 <p>- 🐦 <a href="https://www.linkedin.com/posts/rian-ferian_green-screen-this-is-augmented-reality-activity-7119641655204352000-R_l2?utm_source=share&utm_medium=member_desktop"> Augmented Reality</a></p>
 <p>- 📷 <a href="https://www.linkedin.com/posts/rian-ferian_qr-code-for-attendance-in-the-covid-era-activity-7116402296019681280-cPr1?utm_source=share&utm_medium=member_desktop"> QR Code Attendance</a></p>
+<p>- 🏃‍♂️ <a href="https://www.linkedin.com/posts/rian-ferian_bored-with-clerical-tasks-ten-minutes-of-activity-7103671881718792192-Q9pz?utm_source=share&utm_medium=member_desktop"> Clarical Task Automation</a></p>
 <p>- 💻 <a href="https://www.linkedin.com/posts/rian-ferian_python-automation-webscraping-activity-7052192434872614912-DRlM?utm_source=share&utm_medium=member_desktop"> Web Scraping With Login</a></p>
 <p>- 💻 <a href="https://www.linkedin.com/posts/rian-ferian_python-automation-activity-7006884197764132864--QcY?utm_source=share&utm_medium=member_desktop"> Web Scraping</a></p>
 <p>- 🧑‍🌾 <a href="https://www.linkedin.com/posts/rian-ferian_hay-day-automation-with-python-combining-activity-6963091811749834752-tRQp?utm_source=share&utm_medium=member_desktop"> Hayday Bot Verse 3</a></p>
